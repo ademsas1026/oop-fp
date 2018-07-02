@@ -1,5 +1,4 @@
 class Employee {
-
   constructor(name, salary){
     this.state = {
       name: name, 
